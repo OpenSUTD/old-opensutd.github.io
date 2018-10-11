@@ -1,4 +1,6 @@
-[Home](https://opensutd.github.io/) | [Projects](projects.md) | [Community](https://github.com/OpenSUTD/community)
+[Home](https://opensutd.github.io/) | [**Projects**](projects.md) | [Community](https://github.com/OpenSUTD/community)
+
+[Student-initiated Projects](#student-initiated-projects) | [Academic Projects](#academic-projects)
 
 ## Student-initiated Projects
 
