@@ -1,4 +1,4 @@
-[Home](https://opensutd.github.io/) | [Projects](https://github.com/OpenSUTD/awesome-sutd) | [Community](https://github.com/OpenSUTD/community)
+[Home](https://opensutd.github.io/) | [Projects](projects.md) | [Community](https://github.com/OpenSUTD/community)
 
 ## Student-initiated Projects
 
