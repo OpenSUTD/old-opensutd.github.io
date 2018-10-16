@@ -42,9 +42,3 @@ Nevertheless, in a short period of time since its inception, the group has built
 * [GitHub Organisation](https://github.com/sutd-statnlp)
 * [GitLab](https://gitlab.com/sutd_nlp/statnlp-core)
 * [PhD Students](https://github.com/SUTDNLP)
-
-
-
-
-
-
