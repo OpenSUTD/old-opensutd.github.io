@@ -1,7 +1,8 @@
 [**Home**](https://opensutd.github.io/) | [Projects](projects.md) | [Student Starter Pack](starter-pack.md)
 
 # Welcome to OpenSUTD
-A place for free and open knowledge sharing within and outside of the SUTD Community
+
+A place for free and open knowledge sharing within and outside of the SUTD Community.
 
 ## What's this?
 
