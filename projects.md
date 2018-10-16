@@ -4,8 +4,8 @@
 
 ## Student-initiated Projects
 
-Project Name | Project Lead | Project Description | External Links
------------- | ------------ | ------------------- | --------------
+Proj. Name | Proj. Lead | Proj. Description | External Links
+---------- | ---------- | ------------------- | --------------
 [sutd-timetable](https://github.com/OpenSUTD/sutd-timetable) | [Kwok Shun Git](https://github.com/randName) | .ics generator for timetables | [randName/sutd-timetable](https://github.com/randName/sutd-timetable); [Website](http://sutd-timetable.herokuapp.com/)
 [sutd-letters](https://github.com/OpenSUTD/sutd-letters) | [Jiayu Yi](https://github.com/yi-jiayu/) | The entire alphabet in the SUTD logo style | [yi-jiayu/sutd-letters](https://github.com/yi-jiayu/sutd-letters)
 [SUTDtoSimei_bot](https://github.com/OpenSUTD/SUTDtoSimei_bot) | [Ang Beng Haun](https://github.com/benghaun) | Simple Telegram bot that checks bus timings to go to Simei from SUTD | [benghaun/SUTDtoSimei_bot](https://github.com/benghaun/SUTDtoSimei_bot)
@@ -15,13 +15,13 @@ Project Name | Project Lead | Project Description | External Links
 
 ## Academic Projects
 
-Course | Project Name | Project Lead | Project Description | External Links
------- | ------------ | ------------ | ------------------- | --------------
+Course | Proj. Name | Proj. Lead | Proj. Description | External Links
+------ | ---------- | ---------- | ------------------- | --------------
 50.003 | [Blocktrace](https://github.com/OpenSUTD/blocktrace) | [Joel Huang](https://github.com/joel-huang) | Know-Your-Customer blockchain service using Hyperledger Fabric | [joel-huang/blocktrace](https://github.com/joel-huang/blocktrace)
 50.002 | [Pype](https://github.com/OpenSUTD/pype) | [Joel Huang](https://github.com/joel-huang) | Can you make the smrtest moves? | [joel-huang/pype](https://github.com/joel-huang/pype)
 10.009 | [SmartBin](https://github.com/OpenSUTD/SmartBin) | [Timothy Liu](https://github.com/tlkh) | A smart bin to encourage good recycling practices | [tlkh/SmartBin](https://github.com/tlkh/SmartBin)
 UROP | [Text Emotion Clasification](https://github.com/OpenSUTD/text-emotion-classification) | [Timothy Liu](https://github.com/tlkh) | Classify tweets into many emotional classes | [tlkh/text-emotion-classification](https://github.com/tlkh/text-emotion-classification)
-UROP | [Fake News Chrome Extension](https://github.com/OpenSUTD/fake-news-chrome-extension) | [Timothy Liu](https://github.com/tlkh) | A Chrome browser extension to fight Fake News | [tlkh/fake-news-chrome-extension](https://github.com/tlkh/fake-news-chrome-extension) ;[Website](https://tlkh.github.io/fake-news-chrome-extension/)
+UROP | [Fake News Chrome Extension](https://github.com/OpenSUTD/fake-news-chrome-extension) | [Timothy Liu](https://github.com/tlkh) | A Chrome browser extension to fight Fake News | [tlkh/fake-news-chrome-extension](https://github.com/tlkh/fake-news-chrome-extension); [Website](https://tlkh.github.io/fake-news-chrome-extension/)
 
 
 ## Academic Programmes
