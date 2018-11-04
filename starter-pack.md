@@ -3,6 +3,12 @@
 ## starter-pack
 Curated resources available to SUTD Students
 
+### Learning/Content Starter Packs
+
+Name | Origin | License | Link | Remarks
+---- |------- | ------- | ---- | -------
+Machine Learning | OpenSUTD/[Hong Peng Fei](https://github.com/Emrys-Hong) | N/A | [OpenSUTD/machine-learning-starter-pack](https://github.com/OpenSUTD/machine-learning-starter-pack)
+
 ### Software
 
 Software | License | Link | Remarks
