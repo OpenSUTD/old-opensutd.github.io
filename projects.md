@@ -22,6 +22,7 @@ Course | Proj Name | Lead | Proj Description | External Links
 10.009 | [SmartBin](https://github.com/OpenSUTD/SmartBin) | [Timothy Liu](https://github.com/tlkh) | A smart bin to encourage good recycling practices | [tlkh/SmartBin](https://github.com/tlkh/SmartBin)
 UROP | [Text Emotion Clasification](https://github.com/OpenSUTD/text-emotion-classification) | [Timothy Liu](https://github.com/tlkh) | Classify tweets into many emotional classes | [tlkh/text-emotion-classification](https://github.com/tlkh/text-emotion-classification)
 UROP | [Fake News Chrome Extension](https://github.com/OpenSUTD/fake-news-chrome-extension) | [Timothy Liu](https://github.com/tlkh) | A Chrome browser extension to fight Fake News | [tlkh/fake-news-chrome-extension](https://github.com/tlkh/fake-news-chrome-extension); [Website](https://tlkh.github.io/fake-news-chrome-extension/)
+UROP | [Face of Fonts](https://github.com/OpenSUTD/face-of-fonts) | [Hong Peng Fei](https://github.com/Emrys-Hong) | Typographical branding using deep learning | [Emrys-Hong/face-of-fonts](https://github.com/Emrys-Hong/face-of-fonts)
 
 
 ## Academic Programmes
