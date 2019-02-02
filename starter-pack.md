@@ -8,6 +8,7 @@ Curated resources available to SUTD Students
 Name | Origin | License | Link
 ---- |------- | ------- | ----
 Machine Learning | [Hong Peng Fei](https://github.com/Emrys-Hong) | N/A | [OpenSUTD/machine-learning-starter-pack](https://github.com/OpenSUTD/machine-learning-starter-pack)
+Supplier's List for Hardware Projects | [Lieu Wei Ying](https://github.com/weiying98) and EPD NODE | N/A | [Supplier's list for EPD projects](https://docs.google.com/spreadsheets/d/1qzwPmrW43R6tz_VcCGbVZy8k5tI_GmRzzrB79xlCzO4/edit?usp=sharing)
 
 ### Software
 
