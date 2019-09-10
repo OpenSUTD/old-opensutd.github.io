@@ -12,6 +12,16 @@ OpenSUTD modelled after the idea of an **Open Organisation**, and we have [commu
 
 For an living document describing how OpenSUTD developed to where it is today, take a look [here](https://hackmd.io/J4GmoWKrSA62X93c32s-tQ?view).
 
+## Highlights
+
+* [Projects Listing](https://github.com/OpenSUTD)
+* [Workshops](https://workshops.opensutd.org/)
+* [DiscoverSUTD](https://discover.sutd.dev/)
+
+**Upcoming events**
+
+* [SUTD Unfiltered](https://unfiltered.opensutd.org/)
+
 ## Contributing
 
 We are always actively looking for contributors in the following areas:
@@ -20,6 +30,7 @@ We are always actively looking for contributors in the following areas:
 * Evangelists - marketing and publicity
 * Artists/Designers - branding and visual identity
 * Community Managers and Curators
+* Writers (technical and non-technical)
 * Anything really, we're always open to new ideas!
 
 If you would like to get started but don't know how, do contact `timothy_liu[at]mymail.sutd.edu.sg`. 
