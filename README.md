@@ -17,10 +17,11 @@ For an living document describing how OpenSUTD developed to where it is today, t
 * [Projects Listing](https://github.com/OpenSUTD)
 * [Workshops](https://workshops.opensutd.org/)
 * [DiscoverSUTD](https://discover.sutd.dev/)
+* [SUTD Unfiltered](https://unfiltered.opensutd.org/)
 
 **Upcoming events**
 
-* [SUTD Unfiltered](https://unfiltered.opensutd.org/)
+* *More coming soon!*
 
 ## Contributing
 
